@@ -1,5 +1,15 @@
 # Extraction de PDF protégé via curl — Calameo
 
+## Index
+- [Contexte](#contexte)
+- [Objectif](#objectif)
+- [Méthode](#méthode)
+- [Compétences mobilisées](#compétences-mobilisées)
+- [Résultat](#résultat)
+- [Ce que j'ai appris](#ce-que-jai-appris)
+
+---
+
 ## Contexte
 
 Magazine publié sur Calameo avec téléchargement désactivé.
